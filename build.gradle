@@ -77,7 +77,7 @@ dependencies {
     implementation 'com.google.api:gax-grpc:1.65.1'
     implementation 'com.google.auth:google-auth-library-oauth2-http:0.26.0'
     implementation 'com.google.auto.value:auto-value-annotations:1.6.2'
-    implementation 'com.google.guava:guava:33.7.1-jre'
+    implementation 'com.google.guava:guava:33.7.2-jre'
     implementation 'javax.annotation:javax.annotation-api:1.2'
     implementation 'io.grpc:grpc-core:1.9.1'
 
